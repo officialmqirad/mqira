@@ -516,8 +516,7 @@
         <div class="container header-container">
             <div class="logo">
                 <img src="https://i.ibb.co/1fv1Q1gt/Gemini-Generated-Image-cuor7cuor7cuor7c.png" alt="MQIRAD Logo" class="logo-img">
-                <div class="logo-text">MQIRAD <span></div>
-            </div>
+                <div class="logo-text">MQIRAD
             <div class="contact-info">
                 <div class="contact-item">
                     <i class="fas fa-phone contact-icon"></i>
